@@ -56,12 +56,19 @@ b
 
 ## Output:
 ![image](https://github.com/harini1006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497405/e74202dc-3e2f-48db-8d2f-84dc9aa4cdeb)
+
 ![image](https://github.com/harini1006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497405/a9682a0c-6b81-46e3-b071-2e4a3aa50a1d)
+
 ![image](https://github.com/harini1006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497405/7af1094c-e890-4a53-a684-00afb1f9b0f0)
+
 ![image](https://github.com/harini1006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497405/1c580e33-464f-47ad-9eff-4851bf17a91a)
+
 ![image](https://github.com/harini1006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497405/a9411b7e-a555-48a3-952a-10b1e61726ae)
+
 ![image](https://github.com/harini1006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497405/91beb994-6872-4bf0-8adb-0d31dcee50e1)
+
 ![image](https://github.com/harini1006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497405/9d5fbbb4-70e3-4a8a-bffb-6b37bff77cbc)
+
 ![image](https://github.com/harini1006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497405/a21e6f27-be9e-4879-9afa-b52b0290271c)
 
 
